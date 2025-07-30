@@ -8,7 +8,7 @@ This README provides instructions for setting up a C/C++ development environment
 ## Prerequisites
 
 - **Visual Studio Code**: [Download here](https://code.visualstudio.com/download).
-- **MinGW Compiler**: [Download from here](https://drive.google.com/file/d/1DNi19ocKwHWopyYCfTHZGM96puRsGtOQ/view?fbclid=IwAR2ZPt_uPr-w2tmD9CN8I1JiQ3wVs-uwv3Rz9LoA0rljd7Tp0PyM3GjqTwY).
+- **MinGW Compiler**: [Download from here](https://drive.google.com/file/d/1pY8S9eqICa-o6KRRFdlBsrhEAWdeSUS7/view?usp=sharing).
 
 ## Installing MinGW
 
